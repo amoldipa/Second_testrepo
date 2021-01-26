@@ -1,1 +1,2 @@
 rebase changes
+sample text for conflict
