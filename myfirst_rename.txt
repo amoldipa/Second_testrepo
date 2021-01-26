@@ -3,3 +3,4 @@ Added text for more testing
 Edited for diff command
 modified for brach example
 stash changes
+Rebase changes
